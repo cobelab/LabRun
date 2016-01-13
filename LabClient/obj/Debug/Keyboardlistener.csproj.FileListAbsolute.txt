@@ -1,0 +1,18 @@
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\bin\Debug\key preview.exe
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\bin\Debug\key preview.pdb
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Debug\key_preview.Form1.resources
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Debug\key_preview.Properties.Resources.resources
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Debug\Keyboardlistener.csproj.GenerateResource.Cache
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Debug\key preview.exe
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Debug\key preview.pdb
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Debug\Keyboardlistener.csprojResolveAssemblyReference.cache
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\key preview\obj\Debug\key preview.exe
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\key preview\obj\Debug\key preview.pdb
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\Keyboardlistener.csprojResolveAssemblyReference.cache
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\key_preview.Form1.resources
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\Keyboardlistener.csproj.GenerateResource.Cache
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\bin\Debug\LabClient.exe
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\bin\Debug\LabClient.pdb
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\LabClient.Properties.Resources.resources
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\LabClient.exe
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\LabClient.pdb

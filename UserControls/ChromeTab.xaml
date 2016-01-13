@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="UserControls.ChromeTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             Width="Auto">
+    <Grid Background="#FFE5E5E5" Margin="0,0,0,0">
+        <Button IsEnabled='False' Content="Launch" Height="28" HorizontalAlignment="Left" Margin="10,242,0,0"
+                Name="btnRun" VerticalAlignment="Top" Width="54" Click="btnRun_Click" />
+        <Image Name="imgTest" HorizontalAlignment="Right" Height="100" Margin="10" VerticalAlignment="Bottom"
+               Width="100" />
+
+        <TextBox x:Name="urlTxtBox" HorizontalAlignment="Left" Height="23" Margin="10,55,0,0" TextWrapping="Wrap"
+                 VerticalAlignment="Top" Width="310" />
+        <Label Content="Enter URL to launch in Chrome:" HorizontalAlignment="Left" Margin="10,22,0,0"
+               VerticalAlignment="Top" />
+        <Label Content="Start Chrome in the following mode:" HorizontalAlignment="Left" Margin="0,90,0,0"
+               VerticalAlignment="Top" />
+        <ComboBox SelectedIndex="0" x:Name="cmbBoxWindowMode" HorizontalAlignment="Left" Margin="10,145,0,0"
+                  VerticalAlignment="Top" Width="120" Height="21">
+            <ComboBoxItem Name="windowv1" Tag="1">Maximized</ComboBoxItem>
+            <ComboBoxItem Name="windowv2" Tag="2">Full screen</ComboBoxItem>
+            <ComboBoxItem Name="windowv3" Tag="3">Kiosk mode</ComboBoxItem>
+        </ComboBox>
+        <Button IsEnabled='False' x:Name="btnClose" Content="Close browser" HorizontalAlignment="Left"
+                Margin="69,243,0,0" VerticalAlignment="Top" Width="81" Height="27" Click="btnClose_Click" />
+        <Label Content="When launching new website:" HorizontalAlignment="Left" Margin="0,171,0,0"
+               VerticalAlignment="Top" />
+        <ComboBox SelectedIndex="0" x:Name="cmbBoxNewWindowMode" HorizontalAlignment="Left" Margin="10,203,0,0"
+                  VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Name="newtab" Tag="newtab">In a new tab</ComboBoxItem>
+            <ComboBoxItem Name="newwindow" Tag="newwindow">In a new window</ComboBoxItem>
+            <ComboBoxItem Name="newchrome" Tag="newchrome">Close all other pages</ComboBoxItem>
+        </ComboBox>
+        <Label Content="(works only if the browser is not open)" HorizontalAlignment="Left" Margin="0,113,0,0"
+               VerticalAlignment="Top" />
+    </Grid>
+</UserControl>

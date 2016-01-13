@@ -1,0 +1,22 @@
+﻿<Window x:Class="UserControls.ResultsExtensionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Define test result extensions" Height="300" Width="314.925"
+        ResizeMode="NoResize">
+    <Grid>
+        <Label
+            Content="Enter extensions to retrieve in the following format:&#xA;ext&#xD;&#xA; - where ext is the actual file extension."
+            HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" />
+        <DataGrid ColumnWidth="*" Name="dgrExtensions" HorizontalAlignment="Left" Margin="10,73,0,0"
+                  VerticalAlignment="Top" Height="188" Width="136" AutoGenerateColumns="true" ItemsSource="{Binding}" />
+        <Button Name="btnAdd" Content="Add" HorizontalAlignment="Left" Margin="151,110,0,0" VerticalAlignment="Top"
+                Width="75" RenderTransformOrigin="0.773,0.75" Click="btnAdd_Click" />
+        <TextBox Name="txtbxExtField" HorizontalAlignment="Left" Height="23" Margin="151,87,0,0" TextWrapping="Wrap"
+                 VerticalAlignment="Top" Width="120" />
+        <Button Name="btnRemove" Content="Remove selected" HorizontalAlignment="Left" Margin="151,210,0,0"
+                VerticalAlignment="Top" Width="99" Click="btnRemove_Click" />
+        <Button Name="btnDone" Content="Done!" HorizontalAlignment="Left" Margin="151,237,0,0" VerticalAlignment="Top"
+                Width="75" Click="btnDone_Click" />
+
+    </Grid>
+</Window>

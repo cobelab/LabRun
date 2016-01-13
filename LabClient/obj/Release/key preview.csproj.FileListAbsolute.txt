@@ -1,0 +1,8 @@
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\bin\Release\key preview.exe
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\bin\Release\key preview.pdb
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Release\key preview.csprojResolveAssemblyReference.cache
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Release\key_preview.Form1.resources
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Release\key_preview.Properties.Resources.resources
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Release\key preview.csproj.GenerateResource.Cache
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Release\key preview.exe
+C:\Users\Labclient\Downloads\key_preview\key preview\key preview\obj\Release\key preview.pdb

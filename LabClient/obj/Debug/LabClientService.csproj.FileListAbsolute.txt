@@ -1,0 +1,20 @@
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\bin\Debug\LabClient.exe
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\bin\Debug\LabClient.pdb
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\LabClientService.csprojResolveAssemblyReference.cache
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\LabClientService.Form1.resources
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\LabClient.Properties.Resources.resources
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\LabClientService.csproj.GenerateResource.Cache
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\LabClient.exe
+C:\Users\Labadmin\Desktop\Old LabRun files\Beta Projects\LabRun\bin\Debug\LabClient\obj\Debug\LabClient.pdb
+C:\Users\Work Laptop\Desktop\LabRun\bin\Debug\LabClient\obj\Debug\LabClient.exe
+C:\Users\Work Laptop\Desktop\LabRun\bin\Debug\LabClient\obj\Debug\LabClient.pdb
+E:\LabRun 11 december\bin\Debug\LabClient\obj\Debug\LabClient.exe
+E:\LabRun 11 december\bin\Debug\LabClient\obj\Debug\LabClient.pdb
+E:\LabRun 11 december\bin\Debug\LabClient\bin\Debug\LabClient.exe
+E:\LabRun 11 december\bin\Debug\LabClient\bin\Debug\LabClient.pdb
+E:\LabRun 11 december\bin\Debug\LabClient\obj\Debug\LabClientService.csprojResolveAssemblyReference.cache
+E:\LabRun 11 december\bin\Debug\LabClient\obj\Debug\LabClientService.Form1.resources
+E:\LabRun 11 december\bin\Debug\LabClient\obj\Debug\LabClient.Properties.Resources.resources
+E:\LabRun 11 december\bin\Debug\LabClient\obj\Debug\LabClientService.csproj.GenerateResource.Cache
+E:\LabRun Finale\bin\Debug\LabClient\obj\Debug\LabClient.exe
+E:\LabRun Finale\bin\Debug\LabClient\obj\Debug\LabClient.pdb

@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="UserControls.ZtreeControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignHeight="297" d:DesignWidth="340">
+    <Grid>
+
+
+        <GroupBox Header="Main" HorizontalAlignment="Left" Margin="0,5,0,0" VerticalAlignment="Top" Width="330">
+            <Grid>
+
+                <Button Name="btnRunAdminZTree" Content="Run Admin ZTree" HorizontalAlignment="Left" Margin="0,0,0,0"
+                        VerticalAlignment="Top" Width="107" Click="btnRunAdminZTree_Click" />
+                <TextBlock TextWrapping="WrapWithOverflow" HorizontalAlignment="Left" Height="23"
+                           Margin="121,0,0,-0.333" Text="Launch ZTree" VerticalAlignment="Top" Width="107" />
+                <Button Content="Merge pay files" HorizontalAlignment="Left" Margin="213,0,0,0.667"
+                        VerticalAlignment="Bottom" Width="105" Click="Button_Click" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Leaves" HorizontalAlignment="Left" Margin="0,50,0,0" VerticalAlignment="Top" Height="110"
+                  Width="330">
+            <Grid VerticalAlignment="Top" Height="114" Margin="0,0,0,-13.333">
+                <ComboBox HorizontalAlignment="Left" Margin="7,63,0,0" Name="cmbWindowSizes" SelectedIndex="0"
+                          Tag="ztree" VerticalAlignment="Top" Width="120" />
+                <Label Content="Window Size:" HorizontalAlignment="Left" Margin="7,32,0,0" Name="lblWindowSize"
+                       Tag="ztree" VerticalAlignment="Top" RenderTransformOrigin="0.546,0.718" />
+            </Grid>
+        </GroupBox>
+    </Grid>
+</UserControl>

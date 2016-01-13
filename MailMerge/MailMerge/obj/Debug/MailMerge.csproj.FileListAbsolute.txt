@@ -1,0 +1,48 @@
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\bin\Debug\MailMerge.exe.config
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\bin\Debug\MailMerge.exe
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\bin\Debug\MailMerge.pdb
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\bin\Debug\itextsharp.dll
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\bin\Debug\MetaRipper.dll
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\obj\Debug\MailMerge.csprojResolveAssemblyReference.cache
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\obj\Debug\MainWindow.baml
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\obj\Debug\MainWindow.g.cs
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\obj\Debug\App.g.cs
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\obj\Debug\MailMerge_MarkupCompile.cache
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\obj\Debug\MailMerge.g.resources
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\obj\Debug\MailMerge.Properties.Resources.resources
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\obj\Debug\MailMerge.csproj.GenerateResource.Cache
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\obj\Debug\MailMerge.exe
+C:\Users\Work Laptop\Documents\Visual Studio 2015\Projects\MailMerge\MailMerge\obj\Debug\MailMerge.pdb
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\bin\Debug\MailMerge.exe.config
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.exe
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.pdb
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\bin\Debug\MailMerge.exe
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\bin\Debug\MailMerge.pdb
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\bin\Debug\itextsharp.dll
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\bin\Debug\MetaRipper.dll
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.csprojResolveAssemblyReference.cache
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\obj\Debug\MainWindow.baml
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\obj\Debug\MainWindow.g.cs
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\obj\Debug\App.g.cs
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge_MarkupCompile.cache
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.g.resources
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.Properties.Resources.resources
+C:\Users\Labadmin\Desktop\LabRun\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.csproj.GenerateResource.Cache
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\bin\Debug\MailMerge.exe.config
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.exe
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.pdb
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\bin\Debug\MailMerge.exe
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\bin\Debug\MailMerge.pdb
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\bin\Debug\itextsharp.dll
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\bin\Debug\MetaRipper.dll
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.csprojResolveAssemblyReference.cache
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\obj\Debug\MainWindow.baml
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\obj\Debug\MainWindow.g.cs
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\obj\Debug\App.g.cs
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge_MarkupCompile.cache
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.g.resources
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.Properties.Resources.resources
+C:\Users\Labadmin\Desktop\LabRun 11 december\bin\Debug\MailMerge\MailMerge\obj\Debug\MailMerge.csproj.GenerateResource.Cache

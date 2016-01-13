@@ -1,0 +1,19 @@
+﻿<Window x:Class="UserControls.ReplaceComputer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserControls"
+        mc:Ignorable="d"
+        Title="ReplaceComputer" Height="300" Width="330.523">
+    <Grid>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="192" Margin="10,10,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label x:Name="macAdresslbl" Content="New Mac Address:&#xD;&#xA;" HorizontalAlignment="Left" Height="26" Margin="166,102,0,0" VerticalAlignment="Top" Width="125"/>
+        <Label x:Name="conputerNamelbl" Content="New ComputerName" HorizontalAlignment="Left" Margin="166,11,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="macAdresstxb" HorizontalAlignment="Left" Height="26" Margin="166,133,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="125"/>
+        <TextBox x:Name="computerNametxb" HorizontalAlignment="Left" Height="26" Margin="166,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="125"/>
+        <Button x:Name="Ok" Content="OK" HorizontalAlignment="Left" Height="24" Margin="10,226,0,0" VerticalAlignment="Top" Width="85" Click="button_Click"/>
+        <Button x:Name="Cancel" Content="Cancel" HorizontalAlignment="Left" Height="24" Margin="178,226,0,0" VerticalAlignment="Top" Width="86" Click="button_Click_1"/>
+
+    </Grid>
+</Window>
